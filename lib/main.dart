@@ -63,13 +63,7 @@ class _HomePageState extends State<HomePage> {
   }
 
 
-  // Remove last digit
-  void backspace() {
-    setState(() {
-      amount = amount ~/ 10;
-      calculateChange();
-    });
-  }
+
 
 
   // Clear everything
