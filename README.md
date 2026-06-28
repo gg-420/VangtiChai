@@ -1,17 +1,10 @@
-# myfirstapp
+# vangti_chai
 
-A new Flutter project.
+CSE489 Assignment 1 — Flutter App Development
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Device/Screen Types Tested
 
-A few resources to get you started if this is your first Flutter project:
+Although the app will be officially tested on four specific screen sizes/orientations, I have also checked that the layout performs reasonably well on the following device:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Realme 11 pro plus 5G (1080 x 2412 pixels) (~394 ppi density) — tested in both portrait and landscape modes.
